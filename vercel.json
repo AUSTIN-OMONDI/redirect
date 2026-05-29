@@ -1,0 +1,6 @@
+{
+  "name": "my-redirect",
+  "redirects": [
+    { "source": "/:path*", "destination": "https://your-target-website.com/:path*", "permanent": true }
+  ]
+}
